@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Codronix
+- 👋 Hi, I’m Zedrik Pineda
 - I’m interested in Software App Development, Mobile App Development and Web Development
 - I’m currently learning Web Development using HTML, CSS and JS
 
