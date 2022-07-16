@@ -2,7 +2,7 @@
 - I’m interested in Software App Development, Mobile App Development and Web Development
 - I’m currently learning Web Development using HTML, CSS and JS
 
-SKILLS:
+# MY SKILLS:
 - Oriented in software development using SQL, VB.Net, and C# Programming Language.
 - Capable of creating mobile applications using Xamarin Forms
 - Basic Knowledge in HTML, CSS, JS
