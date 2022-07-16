@@ -2,7 +2,8 @@
 - I’m interested in Software App Development, Mobile App Development and Web Development
 - I’m currently learning Web Development using HTML, CSS and JS
 
-I'm currenty a fresh graduate of B.S.I.T looking for a job here in the Philippines as Junior Programmer.
+- I'm currenty a fresh graduate of B.S.I.T looking for a job here in the Philippines as a Junior Programmer.
+- Preferably at Legazpi Area.
 
 SKILLS:
 - Oriented in software development using SQL, VB.Net, and C# Programming Language.
